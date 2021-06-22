@@ -1,0 +1,3 @@
+﻿  supplier7_func.cpp
+C:\Users\Админ\source\repos\lab7oop\lab7oop\supplier7_func.cpp(440,9): warning C4018: >: несоответствие типов со знаком и без знака
+  lab7oop.vcxproj -> C:\Users\Админ\source\repos\lab7oop\Debug\lab7oop.exe
